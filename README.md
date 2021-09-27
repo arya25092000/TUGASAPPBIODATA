@@ -19,4 +19,6 @@ Berikut ini adalah android studio yang saya gunakan.
 
 Ini adalah aplikasi ketika dijalankan
 
+<div id="tampilan"></div>
+
 ![tampilan app](Pictures/hasilapp1.png)
