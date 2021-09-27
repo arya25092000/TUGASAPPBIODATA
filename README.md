@@ -8,3 +8,9 @@ Ini adalah aplikasi biodata yang saya buat.
 Aplikasi ini menggunakan data yang disesuaikan dengan biodata saya.
 Layout yang digunakan hanya ConstraintLayout
 
+## Android Studio
+
+Berikut ini adalah android studio yang saya gunakan.
+
+- [Android Studio Arctic Fox 2020.3.1](https://developer.android.com/studio)
+- Android Image API 30
