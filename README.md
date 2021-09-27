@@ -13,4 +13,4 @@ Layout yang digunakan hanya ConstraintLayout
 Berikut ini adalah android studio yang saya gunakan.
 
 - [Android Studio Arctic Fox 2020.3.1](https://developer.android.com/studio)
-- Android Image API 30
+- Android Image API 27
